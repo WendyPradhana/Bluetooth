@@ -28,6 +28,6 @@ Fitur-fitur tersebut menyediakan fungsi-fungsi keamanan dari tingkat keamanan la
 Caranya adalah dengan menyiapkan sebuah kunci rahasia pada proses pairing. Selama ini dua perangkat bluetooth menyiapkan kunci digital 128 bit. Ini adalah kunci rahasia yang kemudian disimpan dan dipakai dalam proses enkripsi pada komunikasi selanjutnya. Langkah pertama ini mengharuskan pengguna yang sah untuk menginputkan kunci rahasia yang sesuai, PIN empat digit ke perangkat. Pesan lalu dikirim ke perangkat lainnya, dan ketika ditanyai kunci rahasia, dia berpura-pura lupa. Hal ini memacu perangkat lain untuk memutus kunci dan keduanya lalu mulai proses pairing baru. Kesempatan ini kemudian bisa dimanfaatkan oleh hacker untuk mengetahui kunci rahasia yang baru. Selain mengirim ini ke perangkat Bluetooth yang dituju, semua perangkat Bluetooth yang ada dalam jangkauan itu juga tetap dapat disadap.
 
 
-[Link](url) and ![Image](src)
-```
+![Image](bluetooth.png)
+
 
